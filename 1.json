@@ -1,39 +1,12 @@
 {
-  "image": "https://i.postimg.cc/mDHJx8gp/IMG-3260.png",
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Sunrise"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Young"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Smile"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "White Suit"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Classic Hair"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Black Sunglasses"
-    },
-    {
-      "trait_type": "Hand",
-      "value": "Empty"
-    },
-    {
-      "trait_type": "Unique",
-      "value": "None"
-    }
-  ],
-  "description": "1st NFT collection bout teh gratest enterpener in teh wurld.",
-  "name": "Povel Durev #692"
+name: "TON Punk #33",
+description: "Legendary Punks on the Legendary Blockchain",
+image: https://cloudflare-ipfs.com/ipfs/bafybeifav4uhztrmqmnao2vxtr6g2jbv62zhpmf3njry6mtti5khjtjncu/33.png,
+attributes: {
+0: {2 items},
+1: {2 items},
+2: {2 items},
+3: {2 items},
+4: {2 items}
+}
 }
