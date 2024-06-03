@@ -1,15 +1,83 @@
 {
-  "name": "My NFT Collection",
-  "description": "This is a unique NFT from my collection",
-  "image": "https://example.com/image.png",
+  "name": "Grabs #2592",
+  "description": "Awesome Grabs #2592 on awesome blockchain",
+  "image": "https://grabscape.io/public/grabs/image/341",
   "attributes": [
     {
+      "trait_type": "Sex",
+      "value": "male"
+    },
+    {
+      "trait_type": "Strength",
+      "value": "94"
+    },
+    {
+      "trait_type": "Dexterity",
+      "value": "97"
+    },
+    {
+      "trait_type": "Intellect",
+      "value": "105"
+    },
+    {
+      "trait_type": "Stamina",
+      "value": "95"
+    },
+    {
+      "trait_type": "Charm",
+      "value": "105"
+    },
+    {
+      "trait_type": "Wealth",
+      "value": "108"
+    },
+    {
+      "trait_type": "Cunning",
+      "value": "96"
+    },
+    {
       "trait_type": "Background",
-      "value": "Blue"
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Belly color",
+      "value": "Gray-light"
     },
     {
       "trait_type": "Eyes",
-      "value": "Green"
+      "value": "Contempt"
+    },
+    {
+      "trait_type": "Fur color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Regular_Yellow"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Book"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hairstyle Side-parting-Black"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "epic"
+    },
+    {
+      "trait_type": "Smile",
+      "value": "Tricky"
+    },
+    {
+      "trait_type": "Perk 1",
+      "value": "perk_1_3"
+    },
+    {
+      "trait_type": "Perk 2",
+      "value": "perk_2_1"
     }
   ]
 }
