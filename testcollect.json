@@ -1,14 +1,15 @@
 {
-  "name": "TON Punks \ud83d\udc8e",
-  "description": "TON PUNKS \ud83d\udc8e \u2014 a collection of 5149 NFTs created for the TON blockchain. Our values are freedom of information, enlightenment and decentralization.",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmRGAJd1sQVWntuXMLrPmZ9oiafSvCwsmdGsTVfQ9UiS5D?filename=logo.png",
-  "cover_image": "https://cloudflare-ipfs.com/ipfs/QmdbsS8j8546ZuS43scNzt8TRjBtbTWFhjG49r4edBWzHw?filename=banner.png",
-  "external_link": "https://t.me/punkton",
-  "external_url": "https://t.me/punkton",
+  "name": "Grabscape",
+  "description": "Unique game built on TON blockchain\nPlay and earn $GRBS and $GGT tokens",
+  "image": "https://grabscape.io/collection/collection.png",
+  "external_url": null,
+  "external_link": null,
   "social_links": [
-    "https://twitter.com/tonpunks",
-    "https://t.me/punkton",
-    "https://t.me/TONPunksENG",
-    "https://t.me/+HroiiYy1Tf05Mzgy"
-  ]
+    "https://twitter.com/GrabscapeN",
+    "https://t.me/grabscape_ru",
+    "https://grabscape.io/",
+    "https://t.me/grabscape"
+  ],
+  "marketplace": "getgems.io",
+  "cover_image": "https://s.getgems.io/nft/b/c/626e9a286414de19afde7d9e/edit/images/63d04c120f85a7db95fc723f.png"
 }
