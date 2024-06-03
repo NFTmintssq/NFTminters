@@ -1,7 +1,7 @@
 {
-  "name": "NOTdrop",
-  "description": "Test",
-  "image": "https://i.postimg.cc/jqMJ2kGB/263a-1.png",
+  "name": "My NFT Collection",
+  "description": "This is a unique NFT from my collection",
+  "image": "https://example.com/image.png",
   "attributes": [
     {
       "trait_type": "Background",
