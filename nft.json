@@ -1,6 +1,20 @@
 {
-  "name": "ECLIPSE SKIN",
-  "description": "NOTCOINE: ECLIPSE SKIN",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High Blue"
+    }
+  ],
+  "description": "NFT not only immortalizes the majestic beauty of the owl but also encapsulates the essence of the night and the silent wisdom it holds. Probably nothing.",
   "marketplace": "getgems.io",
-  "image": "https://s.getgems.io/nft/c/65f6d2bb168866954a1095ca/3/image.png"
+  "name": "NOT Wise #63",
+  "image": "https://s.getgems.io/nft/c/65f1941c8d4e725b494dd4b2/437/image.png"
 }
