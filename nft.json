@@ -4,24 +4,16 @@
   "image": "https://i.postimg.cc/VLPtPWFr/87a50eb3-94d5-49a5-995a-51be3779baf4.png",
   "attributes": [
     {
-      "trait_type": "nothing.",
-      "value": "online"
+      "trait_type": "Voucher status",
+      "value": "not activated"
     },
     {
-      "trait_type": "nothing.",
-      "value": "online"
+      "trait_type": "fren",
+      "value": "notdropairbot"
     },
     {
-      "trait_type": "nothing.",
-      "value": "online"
-    },
-    {
-      "trait_type": "nothing.",
-      "value": "online"
-    },
-    {
-      "trait_type": "nothing.",
-      "value": "online"
+      "trait_type": "NOT",
+      "value": "Yes"
     }
   ]
 }
