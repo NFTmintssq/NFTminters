@@ -1,6 +1,6 @@
 {
   "name": "Love Nothing",
-  "description": "Combine Nothing around",
+  "description": "Claim Airdrop ",
   "image": "https://i.postimg.cc/VLPtPWFr/87a50eb3-94d5-49a5-995a-51be3779baf4.png",
   "attributes": [
     {
@@ -16,12 +16,12 @@
       "value": "online"
     },
     {
-      "trait_type": "Perk 1",
-      "value": "perk_1_3"
+      "trait_type": "nothing.",
+      "value": "online"
     },
     {
-      "trait_type": "Perk 2",
-      "value": "perk_2_1"
+      "trait_type": "nothing.",
+      "value": "online"
     }
   ]
 }
