@@ -1,19 +1,19 @@
 {
-  "name": "Love Nothing",
+  "name": "Nothinger",
   "description": "All or Nothing",
   "image": "https://i.postimg.cc/VLPtPWFr/87a50eb3-94d5-49a5-995a-51be3779baf4.png",
   "attributes": [
     {
       "trait_type": "Voucher status",
-      "value": "not activated"
+      "value": "claimed"
     },
     {
-      "trait_type": "fren",
+      "trait_type": "Fren",
       "value": "notdropairbot"
     },
     {
-      "trait_type": "NOT",
-      "value": "Yes"
+      "trait_type": "Nuke",
+      "value": "cola"
     }
   ]
 }
